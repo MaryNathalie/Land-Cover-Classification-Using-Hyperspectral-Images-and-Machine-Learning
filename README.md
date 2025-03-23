@@ -1,1 +1,1 @@
-# Land-Cover-Classification-Using-Hyperspectral-Images-and-Machine-Learning
+# Land Cover Classification Using Hyperspectral Images and Machine Learning
