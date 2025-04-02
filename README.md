@@ -87,7 +87,7 @@ The hyperspectral image data used in this project comes from [Grupo de Inteligen
 ### 🏗 Methodology
 
 <p align="center">
-<img src="https://github.com/MaryNathalie/Land-Cover-Classification-Using-Hyperspectral-Images-and-Machine-Learning/blob/main/images/method.png" width=50% height=50%>
+<img src="https://github.com/MaryNathalie/Land-Cover-Classification-Using-Hyperspectral-Images-and-Machine-Learning/blob/main/images/method.png" width=70% height=70%>
 </p> 
 
 #### 1. Preliminary Processing
