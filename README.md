@@ -98,7 +98,7 @@ The hyperspectral image data used in this project comes from [Grupo de Inteligen
 - 3D image cube transformed to a 2D structured format
 
 #### 2. Modelling 
-- **Machine Learning Models:**  (Tunes with GridSearchCV) SGD Regressor, XGBoost.
+- **Machine Learning Models:**  (Hyperparameters Tuned with GridSearchCV) SGD Regressor, XGBoost.
 - Cross-Validation
 
 ### 📊 Results
