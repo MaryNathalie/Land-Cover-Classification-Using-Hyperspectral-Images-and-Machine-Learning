@@ -98,10 +98,30 @@ The hyperspectral image data used in this project comes from [Grupo de Inteligen
 - 3D image cube transformed to a 2D structured format
 
 #### 2. Modelling 
-- **Machine Learning Models:**  (Hyperparameters Tuned with GridSearchCV) SGD Regressor, XGBoost.
+- **Machine Learning Models:**  (Hyperparameters Tuned with GridSearchCV) Support Vector Classifier (SVC), Random Forest Classifier (RFC), and K Nearest Neighbors (KNN)
 - Cross-Validation
 
 ### 📊 Results
 
-### 📜 Future Work
-#### 1. Sensitivity of Outbreak Thresholds
+<div align="center">
+
+| Model      | Indian Pines Accuracy | Salinas Accuracy |
+|------------|-----------------------|------------------|
+| SVD        | **83.85%**            | **91.98%**       |
+| KNN        | 73.41%                | 90.75%           | 
+| RFC        | 71.85%                | 91.55%           | 
+
+</div>
+
+Indian Pines Classification Maps
+
+<p align="center">
+<img src="https://github.com/MaryNathalie/Land-Cover-Classification-Using-Hyperspectral-Images-and-Machine-Learning/blob/main/images/results_indianpines.png" width=50% height=50%>
+</p> 
+
+Salinas Classification Maps
+
+<p align="center">
+<img src="https://github.com/MaryNathalie/Land-Cover-Classification-Using-Hyperspectral-Images-and-Machine-Learning/blob/main/images/results_salinas.png" width=50% height=50%>
+</p> 
+
