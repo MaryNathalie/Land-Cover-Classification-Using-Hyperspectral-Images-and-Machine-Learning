@@ -14,11 +14,12 @@ This project provides a pipeline for classifying land cover using hyperspectral 
 ### 🏭 Data Sources
 The hyperspectral image data used in this project comes from [Grupo de Inteligencia Computacional](https://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes).
 
+#### 1. Indian Pines Hyperspectral Image
+
 <p align="center">
 <img src="https://github.com/MaryNathalie/Land-Cover-Classification-Using-Hyperspectral-Images-and-Machine-Learning/blob/main/images/eda_indianpines.png" width=50% height=50%>
 </p> 
 
-#### 1. Indian Pines Hyperspectral Image
 - Sensor: Airborne Visible Infrared Imaging Spectrometer (AVIRIS)
 - Location: Indian Pines test site in North-Western Indiana, USA.
 - It has 200 bands with a spatial resolution of 20-meter pixels and a spatial extent of 145 pixels by 145 pixels per band.
@@ -47,13 +48,16 @@ The hyperspectral image data used in this project comes from [Grupo de Inteligen
 
 </div>
 
+
+
+#### 2. Salinas Hyperspectral Image
+
 <p align="center">
 <img src="https://github.com/MaryNathalie/Land-Cover-Classification-Using-Hyperspectral-Images-and-Machine-Learning/blob/main/images/eda_salinas.png" width=50% height=50%>
 </p> 
 
-#### 2. Salinas Hyperspectral Image
-- Airborne Visible Infrared Imaging Spectrometer (AVIRIS)
-- Indian Pines test site in North-Western Indiana, USA.
+- Sensor: Airborne Visible Infrared Imaging Spectrometer (AVIRIS)
+- Location: Indian Pines test site in North-Western Indiana, USA
 - It has 200 bands with a spatial resolution of 20-meter pixels and a spatial extent of 145 pixels by 145 pixels per band.
 - It consists of the following land cover classes and their respective sample counts:
 
